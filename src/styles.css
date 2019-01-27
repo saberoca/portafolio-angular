@@ -38,3 +38,9 @@
     -webkit-animation-name: fadeIn;
     animation-name: fadeIn;
     }
+
+    /*SVG animation*/
+    svg path,
+    svg rect{
+    fill: black;
+    }
